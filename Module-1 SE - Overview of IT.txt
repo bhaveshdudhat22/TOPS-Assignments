@@ -1,4 +1,4 @@
-MiddlewareModule - 1 SE - Overview of IT Industry
+Module - 1 SE - Overview of IT Industry
 ------------------------------------------------
 Q-1 What is software? What is software engineering?
 Ans. Software is a set of instructions or programs used to operate computers and execute specific tasks.
